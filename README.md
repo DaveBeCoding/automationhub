@@ -1,1 +1,1 @@
-# git_repo_automation
+Terminal automation App for github update
